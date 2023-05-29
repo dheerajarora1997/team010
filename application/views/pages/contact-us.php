@@ -12,21 +12,21 @@
             <div class="row">
                 <!--Google map-->
                 <div id="map-container-google-1" class="z-depth-1-half map-container col-sm-12 mb-50" style="height: 500px">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d59512.74927226758!2d72.81491575568408!3d21.210153908095307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0x3be04efc0f8687bd%3A0xc783857ba5d79622!2sTemplateTrip%2C+4030%2C+Central+Bazzar%2C+opp.+Varachha+Police+Station%2C+Varachha+Main+Road%2C+Surat%2C+Gujarat+395006!3m2!1d21.2100775!2d72.84993519999999!4m0!5e0!3m2!1sen!2sin!4v1565339377691!5m2!1sen!2sin" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.8580426946874!2d77.05901038885497!3d28.634016399999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d04e7a799716d%3A0x97f587b71ed42ec1!2sPolice%20Lines%20Vikaspuri!5e0!3m2!1sen!2sin!4v1685381334236!5m2!1sen!2sin" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <!--Google Maps-->
                 <div class="contact-form-area col-sm-7">
-                    <div class="contact-form-inner">
-                        <h4 class="text-capitalize">tell us your project</h4>
+                    <div class="contact-form-inner pt-0">
+                        <h4 class="">Tell Us Your Project</h4>
                         <form id="contact-form" method="post">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <label for="name" class="float-left">First Name<span class="required">*</span></label>
+                                    <label for="name" class="float-left">Name<span class="required">*</span></label>
                                     <input type="text" name="name" id="name" class="float-right" required>
                                 </div>
                                 <div class="col-md-12">
-                                    <label for="last_name" class="float-left">Last Name<span class="required">*</span></label>
-                                    <input type="text" name="last_name" id="last_name" class="float-right" required>
+                                    <label for="last_name" class="float-left">Phone<span class="required">*</span></label>
+                                    <input type="tel" name="last_name" id="last_name" class="float-right" required>
                                 </div>
                                 <div class="col-md-12">
                                     <label for="email" class="float-left">Email<span class="required">*</span></label>
@@ -49,20 +49,20 @@
                 <div class="contact-address col-sm-5">
                     <div class="contact-inner float-left w-100">
                         <div class="contact-information">
-                            <h4 class="text-capitalize">contact us</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu vehicula turpis. Donec semper, nunc a imperdiet sollicitudin, lacus arcu semper nibh, non fermentum risus est quis augue.</p>
+                            <h4 class="mb-0">Contact us</h4>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu vehicula turpis. Donec semper, nunc a imperdiet sollicitudin, lacus arcu semper nibh, non fermentum risus est quis augue.</p> -->
                             <div class="contact-wrapper">
                                 <div class="contact-list">
                                     <i class="material-icons">place</i>
-                                    <span>Address :  4030, Central Bazzar, opp. Varachha Police Station, Varachha Main Road, Surat, Gujarat 395006, India</span>
+                                    <span>Address :  E/77 Uttam Nagar, Near by 863 Bus Stop. New Delhi, India 110059</span>
                                 </div>
                                 <div class="contact-list">
                                     <i class="material-icons">call</i>
-                                    <span>demo@store.com</span>
+                                    <span>+91 704-211-2485</span>
                                 </div>
                                 <div class="contact-list">
                                     <i class="material-icons">email</i>
-                                    <span>0(1234) 567 890</span>
+                                    <span>tanancam28@gmail.com</span>
                                 </div>
                             </div>
                         </div>
@@ -70,7 +70,7 @@
                             <h5>Working hours</h5>
                             <div>
                                 <div>Monday – Saturday</div>
-                                <div>09AM – 07PM</div>
+                                <div>09 A.M. – 07 P.M.</div>
                             </div>
                         </div>
                     </div>

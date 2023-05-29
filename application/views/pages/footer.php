@@ -43,14 +43,18 @@
                   </li>
                   <li class="links mb-2">
                      <span class="contact">
-                     <span class="data"><a href="tel:(91)9785714849">+ (91) 978-571-4849</a></span> </span>
+                     <span class="data"><a href="tel:(91)7042112485">+(91) 704-211-2485</a></span> </span>
                   </li>
                   <li class="links mb-2">
                      <span class="email">
-                     <span class="data"><a href="mailto:manishtanan96@gmail.com">manishtanan96@gmail.com</a></span>
+                     <span class="data"><a href="mailto:tanancam28@gmail.com">tanancam28@gmail.com</a></span>
                      </span>
                   </li>
                </ul>
+               <a href="https://www.instagram.com/label_te_amo10/" target="_blank">
+                  <i class="fa-brands fa-instagram fa-lg"></i>
+                  label_te_amo10
+               </a>
             </div>
          </div>
       </div>
